@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "solapi": "^5.5.1"
+  }
+}
